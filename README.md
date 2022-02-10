@@ -4,14 +4,14 @@ Driver is has written with software SPI protocols which used HAL library, not ha
 CubeMx configuration files is added.
 SPI Pins must be defined as below
 
-#define SPI_CS_Pin 
+#define SPI_CS_Pin
 #define SPI_CS_GPIO_Port
 #define SPI_MISO_Pin 
 #define SPI_MISO_GPIO_Port 
 #define SPI_MOSI_Pin 
-#define SPI_MOSI_GPIO_Port 
-#define SPI_SCLK_Pin 
-#define SPI_SCLK_GPIO_Port 
+#define SPI_MOSI_GPIO_Port
+#define SPI_SCLK_Pin
+#define SPI_SCLK_GPIO_Port
 
 It tested with STM32F072RB-Nucloe boards.
 
