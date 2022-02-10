@@ -1,4 +1,4 @@
-# DS1390-STM32
+# STM32-DS1390
 DS1390 is a one of the Real Time Clock IC. It works with SPI protocols. 
 Driver is has written with software SPI protocols which used HAL library, not hardware.
 
